@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\03. Opinion Poll\bin\Debug\_03.Opinion_Poll.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\03. Opinion Poll\bin\Debug\_03.Opinion_Poll.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\03. Opinion Poll\bin\Debug\_03.Opinion_Poll.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\03. Opinion Poll\obj\Debug\03. Opinion Poll.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\03. Opinion Poll\obj\Debug\03. Opinion Poll.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\03. Opinion Poll\obj\Debug\_03.Opinion_Poll.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\03. Opinion Poll\obj\Debug\_03.Opinion_Poll.pdb
