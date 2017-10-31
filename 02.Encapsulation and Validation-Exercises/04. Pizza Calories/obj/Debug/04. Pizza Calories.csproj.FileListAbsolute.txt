@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Exercises\04. Pizza Calories\bin\Debug\_04.Pizza_Calories.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Exercises\04. Pizza Calories\bin\Debug\_04.Pizza_Calories.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Exercises\04. Pizza Calories\bin\Debug\_04.Pizza_Calories.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Exercises\04. Pizza Calories\obj\Debug\04. Pizza Calories.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Exercises\04. Pizza Calories\obj\Debug\04. Pizza Calories.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Exercises\04. Pizza Calories\obj\Debug\_04.Pizza_Calories.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Exercises\04. Pizza Calories\obj\Debug\_04.Pizza_Calories.pdb

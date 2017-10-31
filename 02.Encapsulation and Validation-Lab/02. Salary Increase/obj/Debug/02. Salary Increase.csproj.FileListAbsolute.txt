@@ -1,0 +1,6 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\02. Salary Increase\bin\Debug\_02.Salary_Increase.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\02. Salary Increase\bin\Debug\_02.Salary_Increase.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\02. Salary Increase\bin\Debug\_02.Salary_Increase.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\02. Salary Increase\obj\Debug\02. Salary Increase.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\02. Salary Increase\obj\Debug\_02.Salary_Increase.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\02. Salary Increase\obj\Debug\_02.Salary_Increase.pdb

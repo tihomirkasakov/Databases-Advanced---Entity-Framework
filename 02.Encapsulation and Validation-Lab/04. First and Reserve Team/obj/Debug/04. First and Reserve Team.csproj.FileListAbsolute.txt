@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\04. First and Reserve Team\obj\Debug\04. First and Reserve Team.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\04. First and Reserve Team\obj\Debug\04. First and Reserve Team.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\04. First and Reserve Team\bin\Debug\_04.First_and_Reserve_Team.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\04. First and Reserve Team\bin\Debug\_04.First_and_Reserve_Team.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\04. First and Reserve Team\bin\Debug\_04.First_and_Reserve_Team.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\04. First and Reserve Team\obj\Debug\_04.First_and_Reserve_Team.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\04. First and Reserve Team\obj\Debug\_04.First_and_Reserve_Team.pdb

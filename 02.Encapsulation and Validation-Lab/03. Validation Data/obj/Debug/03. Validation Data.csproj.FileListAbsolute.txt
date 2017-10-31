@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\03. Validation Data\bin\Debug\_03.Validation_Data.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\03. Validation Data\bin\Debug\_03.Validation_Data.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\03. Validation Data\bin\Debug\_03.Validation_Data.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\03. Validation Data\obj\Debug\03. Validation Data.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\03. Validation Data\obj\Debug\03. Validation Data.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\03. Validation Data\obj\Debug\_03.Validation_Data.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Encapsulation and Validation-Lab\03. Validation Data\obj\Debug\_03.Validation_Data.pdb
