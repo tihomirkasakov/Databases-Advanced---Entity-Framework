@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\05. Company Roster\bin\Debug\_05.Company_Roster.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\05. Company Roster\bin\Debug\_05.Company_Roster.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\05. Company Roster\bin\Debug\_05.Company_Roster.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\05. Company Roster\obj\Debug\05. Company Roster.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\05. Company Roster\obj\Debug\05. Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\05. Company Roster\obj\Debug\_05.Company_Roster.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\05. Company Roster\obj\Debug\_05.Company_Roster.pdb

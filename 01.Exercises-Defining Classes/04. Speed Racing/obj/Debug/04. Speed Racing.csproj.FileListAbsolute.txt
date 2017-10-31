@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\04. Speed Racing\bin\Debug\_04.Speed_Racing.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\04. Speed Racing\bin\Debug\_04.Speed_Racing.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\04. Speed Racing\bin\Debug\_04.Speed_Racing.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\04. Speed Racing\obj\Debug\04. Speed Racing.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\04. Speed Racing\obj\Debug\04. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\04. Speed Racing\obj\Debug\_04.Speed_Racing.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Exercises-Defining Classes\04. Speed Racing\obj\Debug\_04.Speed_Racing.pdb
