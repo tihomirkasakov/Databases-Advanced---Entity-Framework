@@ -1,4 +1,4 @@
-# Databases-Advanced---Entity-Framework
+# Databases-Advanced - Entity-Framework
 
 01 DEFINING CLASSES
 02 ENCAPSULATION AND VALIDATION
