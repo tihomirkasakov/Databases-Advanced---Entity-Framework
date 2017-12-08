@@ -1,0 +1,9 @@
+C:\Users\Tihomir\Desktop\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.deps.json
+C:\Users\Tihomir\Desktop\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\Tihomir\Desktop\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\Tihomir\Desktop\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Desktop\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Desktop\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfoInputs.cache
+C:\Users\Tihomir\Desktop\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfo.cs
+C:\Users\Tihomir\Desktop\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\Tihomir\Desktop\11. DB-Advanced-EF-Core-Exam-Preparation-2-Stations-Skeleton\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.pdb
